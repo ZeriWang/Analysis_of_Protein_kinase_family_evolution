@@ -1,2 +1,5 @@
-# Analysis_of_Protein_kinase_family_evolution
 # 丝氨酸/苏氨酸蛋白激酶家族演化分析
+
+- 该项目基于教程:
+  - [AI蛋白质教程：丝氨酸/苏氨酸蛋白激酶家族演化分析](https://mp.weixin.qq.com/s/7tk467lR2Lgyo62m9fM_Vw)
+- 目的是熟悉常用数据库和分析工具，尝试从头构建并理解一个蛋白激酶家族的序列与结构进化图谱
